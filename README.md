@@ -10,7 +10,7 @@
 
 3. Project only contains the code in github not the project folder prepared by Visual Studio.
 
-## DESCRIPTION OF THE TASK
+### DESCRIPTION OF THE TASK
 
 Euclid developed a simple and effective algorithm for determining the GCD (greatest common
 divider).
@@ -30,9 +30,9 @@ a b max {a, b} -min {a, b}
 3 1 3‐1 = 2
 2 1 2‐1 = 1
 1 1 NWP = 1
--‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ -‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ -‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+
 Create a block diagram and then implement the Fibonacci sequence
--‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ -‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ -‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+
 The Fibonacci sequence is expressed by the recursive formula: f (n) = f (n-2) + f (n-1), when f (1) = 1 and f (2) = 1.
 It is easy to calculate that:
 f (3) = f (1) + f (2) = 1 + 1 = 2
